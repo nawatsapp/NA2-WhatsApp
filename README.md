@@ -1,1 +1,2 @@
 # NA2-WhatsApp
+NA2 WhatsApp is a modified version of the popular messaging app, offering additional features and customization options. It allows users to personalize their chat experience with unique themes, fonts, and privacy settings. With enhanced functionalities, NA2 WhatsApp aims to provide a more flexible and user-friendly platform for communication. So, download from https://nawatsapp.com/na2-whatsapp/
